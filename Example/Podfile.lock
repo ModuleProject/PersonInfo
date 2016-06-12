@@ -1,0 +1,16 @@
+PODS:
+  - PersonInfo (0.1.0)
+
+DEPENDENCIES:
+  - PersonInfo (from `../`)
+
+EXTERNAL SOURCES:
+  PersonInfo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PersonInfo: 6e7642b73d8d8215beb960fcaece0e9314c031da
+
+PODFILE CHECKSUM: f8dc58675cd1dd20bc3772c0dc3bc9342299441d
+
+COCOAPODS: 1.0.1
