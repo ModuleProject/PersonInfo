@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PersonInfo_Tests' do
+  pod 'PersonInfo', :path => '../'
+  
+  
+end
